@@ -1,0 +1,16 @@
+#banner {
+    height: 768px;
+    background-image : url('./netfix-background.jpg');
+    background-size: cover
+}
+#shade{
+    height: 768px;
+    background-color: rgba(0,0,0,0.6);
+
+}
+main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 300px;
+}

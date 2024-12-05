@@ -1,0 +1,14 @@
+.brand{
+    font-size: 30px;
+    font-family: "Jaro", sans-serif;
+    color: rgb(33, 235, 86);
+    text-transform: uppercase;
+    padding: 8px;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+#butt{
+    padding: 8px;
+}
